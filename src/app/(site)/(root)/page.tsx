@@ -1,5 +1,5 @@
-import Hero from "@/components/root/Hero";
-import Timeline from "@/components/root/Timeline";
+import Hero from "@/components/root/Hero"
+import Timeline from "@/components/root/Timeline"
 
 export default function Home() {
   return (
@@ -7,5 +7,5 @@ export default function Home() {
       <Hero />
       <Timeline />
     </main>
-  );
+  )
 }

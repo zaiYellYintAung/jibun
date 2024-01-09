@@ -1,4 +1,4 @@
-export type SiteConfig = typeof siteConfig;
+export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
   name: "Premia",
@@ -9,4 +9,4 @@ export const siteConfig = {
     twitter: "https://twitter.com/ArchaicAI",
     docs: `${process.env.ARCHAIC_URL}/docs`,
   },
-};
+}
